@@ -1,0 +1,6 @@
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_DatabaseLayer\bin\Debug\ETC_DatabaseLayer.dll
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_DatabaseLayer\bin\Debug\ETC_DatabaseLayer.pdb
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_DatabaseLayer\obj\Debug\ETC_DatabaseLayer.csproj.AssemblyReference.cache
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_DatabaseLayer\obj\Debug\ETC_DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_DatabaseLayer\obj\Debug\ETC_DatabaseLayer.dll
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_DatabaseLayer\obj\Debug\ETC_DatabaseLayer.pdb

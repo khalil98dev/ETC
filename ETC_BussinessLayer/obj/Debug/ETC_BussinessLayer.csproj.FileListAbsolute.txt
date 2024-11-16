@@ -1,0 +1,9 @@
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_BussinessLayer\bin\Debug\ETC_BussinessLayer.dll
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_BussinessLayer\bin\Debug\ETC_BussinessLayer.pdb
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_BussinessLayer\bin\Debug\ETC_DatabaseLayer.dll
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_BussinessLayer\bin\Debug\ETC_DatabaseLayer.pdb
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_BussinessLayer\obj\Debug\ETC_BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_BussinessLayer\obj\Debug\ETC_BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_BussinessLayer\obj\Debug\ETC_Buss.F2911DDD.Up2Date
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_BussinessLayer\obj\Debug\ETC_BussinessLayer.dll
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_BussinessLayer\obj\Debug\ETC_BussinessLayer.pdb

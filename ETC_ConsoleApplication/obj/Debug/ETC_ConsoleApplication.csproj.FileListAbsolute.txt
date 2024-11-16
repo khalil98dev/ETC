@@ -1,0 +1,12 @@
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_ConsoleApplication\bin\Debug\ETC_ConsoleApplication.exe.config
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_ConsoleApplication\bin\Debug\ETC_ConsoleApplication.exe
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_ConsoleApplication\bin\Debug\ETC_ConsoleApplication.pdb
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_ConsoleApplication\bin\Debug\ETC_BussinessLayer.dll
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_ConsoleApplication\bin\Debug\ETC_BussinessLayer.pdb
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_ConsoleApplication\obj\Debug\ETC_ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_ConsoleApplication\obj\Debug\ETC_ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_ConsoleApplication\obj\Debug\ETC_Cons.44BA06D8.Up2Date
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_ConsoleApplication\obj\Debug\ETC_ConsoleApplication.exe
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_ConsoleApplication\obj\Debug\ETC_ConsoleApplication.pdb
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_ConsoleApplication\bin\Debug\ETC_DatabaseLayer.dll
+C:\Users\FUJITSU\source\repos\ETC_ConsoleApplication\ETC_ConsoleApplication\bin\Debug\ETC_DatabaseLayer.pdb
