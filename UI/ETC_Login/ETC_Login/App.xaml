@@ -1,0 +1,11 @@
+﻿<Application x:Class="ETC_Login.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ETC_Login"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <BitmapImage x:Key="Password" UriSource="Resourses\Password16.png"> </BitmapImage>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

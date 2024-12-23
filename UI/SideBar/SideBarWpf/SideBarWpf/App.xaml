@@ -1,0 +1,17 @@
+﻿<Application x:Class="SideBarWpf.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SideBarWpf"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <BitmapImage UriSource="\Icons\time.png" x:Key="ComanyPic"></BitmapImage>
+            <BitmapImage UriSource="\Icons\Rating.png" x:Key="Rating"></BitmapImage>
+            <BitmapImage UriSource="\Icons\settings.png" x:Key="Settigns"></BitmapImage>
+            <BitmapImage UriSource="\Icons\shift.png" x:Key="Shift"></BitmapImage>
+            <BitmapImage UriSource="\Icons\transaction.png" x:Key="Transaction"></BitmapImage>
+            <BitmapImage UriSource="\Icons\Users.png" x:Key="Users"></BitmapImage>
+            <BitmapImage UriSource="\Icons\Employee.png" x:Key="Employees"></BitmapImage>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,157 @@
+﻿<Window x:Class="SideBarWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SideBarWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!-- Grid Of All Content -->
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="260" ></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+
+        <Grid Grid.Column="0">
+            <!-- Grid Of SideBar Content -->
+            <Grid.ColumnDefinitions >
+                <ColumnDefinition Width="16" ></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="16"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="16"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+
+            </Grid.RowDefinitions>
+
+            <!--  Grid Content after conrners-->
+            <Grid Grid.Column="1" Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"></RowDefinition>
+                    <RowDefinition Height="350"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="40"></ColumnDefinition>
+                        <ColumnDefinition Width="12"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+
+                    </Grid.ColumnDefinitions>
+                    <!-- Company Logo-->
+                    <Image Width="40" Height="40" Stretch="Fill" Cursor="Hand" Name="CompanyPicture"
+                           Grid.Row="0" Grid.Column="0"
+                            Source="{DynamicResource ComanyPic}"
+                           ></Image>
+                    <StackPanel  Grid.Column="2"  VerticalAlignment="Top"
+                                 Orientation="Horizontal">
+                        <TextBlock Text="ETC"
+                               FontSize="36" Margin="0 -10 0 0"/>
+                        <TextBlock Text=" Employees Time Clockins" 
+                                   FontSize="10" 
+                                   VerticalAlignment="Bottom"/>
+
+                    </StackPanel>
+                </Grid>
+
+                <Grid Grid.Row="1">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="64"></RowDefinition>
+                        <RowDefinition Height="44"></RowDefinition>
+                        <RowDefinition Height="4"></RowDefinition>
+                        <RowDefinition Height="44"></RowDefinition>
+                        <RowDefinition Height="4"></RowDefinition>
+                        <RowDefinition Height="44"></RowDefinition>
+                        <RowDefinition Height="4"></RowDefinition>
+                        <RowDefinition Height="44"></RowDefinition>
+                        <RowDefinition Height="4"></RowDefinition>
+                        <RowDefinition Height="44"></RowDefinition>
+                        <RowDefinition Height="4"></RowDefinition>
+                        <RowDefinition Height="44"></RowDefinition>
+                        <RowDefinition Height="4"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="16"></ColumnDefinition>
+                        <ColumnDefinition Width="20"></ColumnDefinition>
+                        <ColumnDefinition Width="16"></ColumnDefinition>
+
+
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <Border Background="Transparent" Grid.Row="1" Grid.ColumnSpan="4">
+                        <local:ucMenueButton OImage="{DynamicResource Employees}" 
+                                             Title="Employees" 
+                                             />
+
+                    </Border>
+
+                    <Border Background="Transparent" Grid.Row="3" Grid.ColumnSpan="4">
+                        <local:ucMenueButton OImage="{DynamicResource Users}" 
+                     Title="Users" 
+                     />
+                    </Border>
+
+                    <Border Background="Transparent" Grid.Row="5" Grid.ColumnSpan="4">
+                        <local:ucMenueButton OImage="{DynamicResource Shift}" 
+                     Title="Shifts" 
+                     />
+                    </Border>
+
+                    <Border Background="Transparent" Grid.Row="7" Grid.ColumnSpan="4">
+                        <local:ucMenueButton OImage="{DynamicResource Transaction}" 
+                     Title="Transactions" 
+                     />
+                    </Border>
+
+
+                    <Border Background="Transparent" Grid.Row="9" Grid.ColumnSpan="4">
+                        <local:ucMenueButton OImage="{DynamicResource Rating}" 
+                     Title="Rating" 
+                     />
+                    </Border>
+
+                    <Border Background="Transparent" Grid.Row="11" Grid.ColumnSpan="4">
+                        <local:ucMenueButton OImage="{DynamicResource Settigns}" 
+                     Title="Settings" 
+                     />
+                    </Border>
+
+                </Grid>
+
+                <Grid Grid.Row="2">
+
+                </Grid>
+
+            </Grid>
+
+
+
+
+
+
+
+
+
+
+
+
+        </Grid>
+        <Ellipse HorizontalAlignment="Left" Height="31" Margin="245,10,0,0"
+                 Stroke="Black" VerticalAlignment="Top" Width="31"
+                 RenderTransformOrigin="-2.914,-2.337" Grid.ColumnSpan="2"
+                
+                 >
+           
+
+        </Ellipse>
+
+    </Grid>
+
+
+</Window>
